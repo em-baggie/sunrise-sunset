@@ -1,7 +1,7 @@
 <div align="center">
 <img src="images/logo.webp" alt="screenshot 1" width= "250">
 </div>
-<h1 align="center">Assignment 2: Sunrise-Sunset app</h1>
+<h1 align="center">Sunrise-Sunset app</h1>
 
 # Overview
 This is a simple command line application which creates a table saved in a text file (`sunrise_sunset.txt`) showing the time of sunset and sunrise on a specific date in a city/country.
@@ -23,5 +23,3 @@ This is a simple command line application which creates a table saved in a text 
 # APIs used
 - <a href= "https://photon.komoot.io/">Photon</a> for obtaining longitude and latitude.
 - <a href="https://sunrise-sunset.org/api">Sunrise Sunset API</a> for obtaining sunrise/sunset times.
-***
-> ***“I'm out here to get the job done, and I know I had the ability to do it, and that's where my focus was.”*** - Annie Easley
